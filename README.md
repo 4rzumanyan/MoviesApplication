@@ -1,6 +1,7 @@
 # Movies Application
 
-This project aims to provide a simple Android application that allows users to browse and explore the latest movie releases. 
+This project aims to provide a simple Android application that allows users to browse and explore the latest movie releases. <br/>
+This project showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application.
 
 ## Features
 
@@ -16,7 +17,7 @@ This project aims to provide a simple Android application that allows users to b
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/movies-android-app.git`
+1. Clone the repository: `git clone https://github.com/4rzumanyan/MoviesApplication.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 
