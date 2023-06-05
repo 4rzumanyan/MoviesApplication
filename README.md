@@ -21,11 +21,11 @@ This project aims to provide a simple Android application that allows users to b
 3. Build and run the app on an Android device or emulator.
 
 ## Technologies Used
-<a href="[url](https://github.com/orbit-mvi/orbit-mvi)">Orbit MVI (MVVM+)</a>
+
 There showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application. <br/>
 
 - Android SDK
 - Kotlin programming language + Kotlin Gradle
 - Jetpack Compose
-- <a href="[url](https://github.com/orbit-mvi/orbit-mvi)">Orbit MVI (MVVM+)</a>
+- <a href="(https://github.com/orbit-mvi/orbit-mvi)">Orbit MVI (MVVM+)</a>
 - Clean Architecture
