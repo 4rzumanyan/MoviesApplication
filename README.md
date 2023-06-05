@@ -1,7 +1,7 @@
 # Movies Application
 
 This project aims to provide a simple Android application that allows users to browse and explore the latest movie releases. <br/>
-This project showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application.
+There showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application.
 
 ## Features
 
