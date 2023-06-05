@@ -19,6 +19,7 @@ This project aims to provide a simple Android application that allows users to b
 1. Clone the repository: `git clone https://github.com/4rzumanyan/MoviesApplication.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
+<a href="[url](https://github.com/orbit-mvi/orbit-mvi)">Orbit MVI (MVVM+)</a>
 
 ## Technologies Used
 There showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application. <br/>
