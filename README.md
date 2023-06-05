@@ -24,11 +24,6 @@ This project aims to provide a simple Android application that allows users to b
 There showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application. <br/>
 
 - Android SDK
-- Kotlin programming language
-- TMDB API (https://www.themoviedb.org/)
-- Retrofit for API communication
-- Glide for image loading and caching
-- Room Persistence Library for local data storage
-- ViewModel and LiveData for data presentation and lifecycle management
-- RecyclerView for displaying movie lists
-- Material Design components for UI consistency
+- Kotlin programming language + Kotlin Gradle
+- Jetpack Compose
+- Clean Architecture
