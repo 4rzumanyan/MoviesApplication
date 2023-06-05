@@ -27,6 +27,5 @@ There showcases the best practices and advanced techniques in Android developmen
 - Android SDK
 - Kotlin language (+Gradle)
 - Jetpack Compose
-- Rest API
 - Orbit MVI (MVVM+)
 - Clean Architecture (exactly as Uncle Bob meant)
