@@ -27,5 +27,5 @@ There showcases the best practices and advanced techniques in Android developmen
 - Android SDK
 - Kotlin programming language + Kotlin Gradle
 - Jetpack Compose
-- <a href="(https://github.com/orbit-mvi/orbit-mvi)">Orbit MVI (MVVM+)</a>
+- <a href="https://github.com/orbit-mvi/orbit-mvi">Orbit MVI (MVVM+)</a>
 - Clean Architecture
