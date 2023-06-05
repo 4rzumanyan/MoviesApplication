@@ -5,7 +5,7 @@ This project aims to provide a simple Android application that allows users to b
 ## Features
 
 - Browse and discover the latest movie releases.
-- View detailed information about each movie, including the title, release date, rating, synopsis, and cast.
+- View detailed information about each movie, including the title, release date, etc.
 
 ## Screenshots
 
