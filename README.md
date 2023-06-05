@@ -1,7 +1,6 @@
 # Movies Application
 
-This project aims to provide a simple Android application that allows users to browse and explore the latest movie releases. <br/>
-There showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application.
+This project aims to provide a simple Android application that allows users to browse and explore the latest movie releases.
 
 ## Features
 
@@ -22,6 +21,7 @@ There showcases the best practices and advanced techniques in Android developmen
 3. Build and run the app on an Android device or emulator.
 
 ## Technologies Used
+There showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application. <br/>
 
 - Android SDK
 - Kotlin programming language
