@@ -15,9 +15,8 @@ This repository contains an Android application that allows users to browse and 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](https://github.com/4rzumanyan/MoviesApplication/blob/master/scr_1.png)
+![Screenshot 2](https://github.com/4rzumanyan/MoviesApplication/blob/master/scr_2.png)
 
 ## Installation
 
