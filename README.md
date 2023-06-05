@@ -25,7 +25,8 @@ This project aims to provide a simple Android application that allows users to b
 There showcases the best practices and advanced techniques in Android development, incorporating cutting-edge technologies and libraries to build a robust and feature-rich Android application. <br/>
 
 - Android SDK
-- Kotlin language + gradle.kts
+- Kotlin language (+Gradle)
 - Jetpack Compose
+- Rest API
 - Orbit MVI (MVVM+)
-- Clean Architecture
+- Clean Architecture (exactly as Uncle Bob meant)
