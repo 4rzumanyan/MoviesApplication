@@ -1,5 +1,7 @@
 # Movies Application
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 This project aims to provide a simple Android application that allows users to browse and explore the latest movie releases.
 
 ## Features
@@ -29,3 +31,7 @@ There showcases the best practices and advanced techniques in Android developmen
 - Jetpack Compose
 - Orbit MVI (MVVM+)
 - Clean Architecture (exactly as Uncle Bob meant)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
